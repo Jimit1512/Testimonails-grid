@@ -38,7 +38,7 @@ body{
 .grid-item{
     margin-bottom: 20px;
     padding:20px;
-    border-radius: 5px;
+    border-radius: 10px;
     font-size: 13px;
     box-shadow: 1px 1px 5px 1px rgba(0,0,0,0.2);
 }
@@ -82,7 +82,7 @@ body{
 @media(min-width:576px){
     #testimonial-grid-container{
         display: flex;
-        max-width: 900px;
+        max-width: 1300px;
         margin: 0 auto;
     }
 
@@ -93,7 +93,7 @@ body{
     }
 
     #main-left .grid-item{
-        margin-right: 15px;
+        margin-right: 30px;
     }
 
     #testimonial-5{
